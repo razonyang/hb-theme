@@ -9290,13 +9290,16 @@ textarea.form-control-lg {
 
 .hb-blog-post-meta {
   color: var(--hb-tertiary-color);
-  font-size: 0.85rem; }
+  font-size: 0.825rem; }
   .hb-blog-post-meta * {
     margin: 0.125rem; }
     .hb-blog-post-meta *:first-child {
       margin-left: 0; }
     .hb-blog-post-meta *:last-child {
       margin-right: 0; }
+    .hb-blog-post-meta *:not(:last-child)::after {
+      content: "·";
+      padding-left: 0.5rem; }
 
 .hb-blog-post-summary {
   display: -webkit-box;

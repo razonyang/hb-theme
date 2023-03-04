@@ -8,8 +8,8 @@ github.com/razonyang/hb/modules/base v0.4.0 h1:zkgHLltX3Ax4EwEfMgH3eQgDMH8TmSPPM
 github.com/razonyang/hb/modules/base v0.4.0/go.mod h1:rfidPXOv6nLUfBER02bFgfNd7sdgf30ZVX7vGK7vLxA=
 github.com/razonyang/hb/modules/bigger-picture v0.1.1 h1:w/E2ojgEvSWPEDCTHc3H9eaYYTDEBlLoDqFNXBodfTw=
 github.com/razonyang/hb/modules/bigger-picture v0.1.1/go.mod h1:+ETYb4q6hTIFrkk5XfT4UpsuNHn5vD+mIJOHsDEqN5o=
-github.com/razonyang/hb/modules/blog v0.6.0 h1:9RapuP6fb8SxtFw1Wxhc/zaOcbteRiokHZCwg4sw0BM=
-github.com/razonyang/hb/modules/blog v0.6.0/go.mod h1:i5ZF7qKABapKnUHO/hOOGY6kJHjchtNf6+zBLgKZAZ4=
+github.com/razonyang/hb/modules/blog v0.7.0 h1:p5uvJsJGhiMrETbxLIq/qcFBuNFuPnfq3JkXF8byB98=
+github.com/razonyang/hb/modules/blog v0.7.0/go.mod h1:i5ZF7qKABapKnUHO/hOOGY6kJHjchtNf6+zBLgKZAZ4=
 github.com/razonyang/hb/modules/blog/modules/breadcrumb v0.1.0 h1:/M6dE7Ua1BABtcNsDk7jLrbn4TRNiY11UzWLr47qmqY=
 github.com/razonyang/hb/modules/blog/modules/breadcrumb v0.1.0/go.mod h1:U/HttkZXIaJCwR3WZU4i4Breh0fy1LoV8EVNnE4qSx0=
 github.com/razonyang/hb/modules/blog/modules/featured-image v0.1.1 h1:+TgCUoxUjAEm5bSPb9etMDcfx/mnp65WixZDS3v6H8A=
@@ -26,8 +26,6 @@ github.com/razonyang/hb/modules/bootstrap v0.1.0 h1:XJJ+LCn/8Vu6g21ACYfbE0IkHcBV
 github.com/razonyang/hb/modules/bootstrap v0.1.0/go.mod h1:QCoMAZuDHz9/oDpy9FchkrOzlmhmEAPgV1VWvABKcUA=
 github.com/razonyang/hb/modules/breadcrumb v0.1.2 h1:c0byDvofHgruxJZLpLcm1TpttMr3ZEFbpysoGHN1giU=
 github.com/razonyang/hb/modules/breadcrumb v0.1.2/go.mod h1:+7kXjvL1O7cRpCdz9oVxEKfes/N41uvRAC6eh5OpqV8=
-github.com/razonyang/hb/modules/carousel v0.1.3 h1:fWGTkyH9kY6EMnxLBlPQLl5yRufqctQqyEAcvhXbcnE=
-github.com/razonyang/hb/modules/carousel v0.1.3/go.mod h1:XrkUuMxnsIy/A1XkMPsAKytqnHKDsW4QhC9yX/sQMXo=
 github.com/razonyang/hb/modules/carousel v0.1.4 h1:zXkbz1Ok1eeeaBc5j7BoG/mPVChyLU7sscSAAt34TDQ=
 github.com/razonyang/hb/modules/carousel v0.1.4/go.mod h1:XrkUuMxnsIy/A1XkMPsAKytqnHKDsW4QhC9yX/sQMXo=
 github.com/razonyang/hb/modules/code-block-panel v0.1.1 h1:BtzFwYBTXgD4j9SJFzPqf+INCfMb3lwKwO2YZMnF0Qo=
