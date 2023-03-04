@@ -15,3 +15,8 @@ hb:
       paypal: razonyang
       twitter: razonyang
       mastodon: razonyang
+  blog:
+    giscus:
+      repo: razonyang/hb-theme
+      repo_id: R_kgDOI8nunQ
+      category_id: DIC_kwDOI8nunc4CUpCW
