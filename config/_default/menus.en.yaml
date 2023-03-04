@@ -1,0 +1,80 @@
+main:
+  - name: Support
+    identifier: support
+    weight: 100
+    url: https://github.com/razonyang/hb
+    params:
+      header: The HB support community.
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+  - name: GitHub
+    parent: support
+    url: https://github.com/razonyang/hb
+    weight: 1
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: The code repository.
+
+  - name: Discussion
+    parent: support
+    url: https://github.com/razonyang/hb/discussions
+    weight: 2
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: Ask questions and share your ideas.
+
+  - name: Bug Report
+    parent: support
+    url: https://github.com/razonyang/hb/issues/new
+    weight: 3
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bug
+        color: red
+      description: Tell us about a bug or issue.
+
+  - name: Feature Request
+    parent: support
+    url: https://github.com/razonyang/hb/issues/new
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: orange
+      description: Suggest new or updated features.
+
+  - name: Sponsor
+    identifier: sponsor
+    parent: support
+    weight: 10
+    params:
+      divider: true
+
+  - name: PayPal
+    weight: 11
+    parent: support
+    url: https://paypal.me/razonyang
+    params:
+      description: Sponsor via PayPal.
+      icon:
+        vendor: simple-icons
+        name: paypal
+
+  - name: Ko-fi
+    weight: 12
+    parent: support
+    url: https://ko-fi.com/razonyang
+    params:
+      description: Sponsor via Ko-fi.
+      icon:
+        vendor: simple-icons
+        name: kofi

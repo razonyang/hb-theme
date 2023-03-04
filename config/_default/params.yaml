@@ -1,0 +1,17 @@
+hb:
+  header:
+    brand: HB
+    logo_bg: '#712cf9'
+    socials:
+      github: razonyang/hb
+      kofi: razonyang
+      paypal: razonyang
+      twitter: razonyang
+      mastodon: razonyang
+  footer:
+    socials:
+      github: razonyang/hb
+      kofi: razonyang
+      paypal: razonyang
+      twitter: razonyang
+      mastodon: razonyang
