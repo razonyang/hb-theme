@@ -1,0 +1,24 @@
+name = "HB Starter Theme"
+license = "MIT"
+licenselink = "https://github.com/razonyang/hb-theme/blob/main/LICENSE"
+description = "The starter theme for HB (Hugo Bootstrap) framework"
+
+homepage = "https://github.com/razonyang/hb-theme"
+
+demosite = "https://hb-theme.razonyang.com/"
+
+tags = [
+    "blog",
+    "docs",
+    "documentation",
+    "personal",
+    "bootstrap",
+    "dark mode",
+    "responsive",
+    "multilingual",
+]
+features = ["search", "flexible", "modular"]
+
+[author]
+name = "Razon Yang"
+homepage = "https://razonyang.com"
