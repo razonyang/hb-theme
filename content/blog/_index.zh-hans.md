@@ -2,7 +2,8 @@
 title: 博客
 menu:
   main:
-    weight: 2
+    identifier: blog
+    weight: 3
     params:
       icon:
         vendor: fas
