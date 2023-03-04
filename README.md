@@ -8,4 +8,4 @@ https://hb-theme.razonyang.com
 
 ## Screenshot
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/razonyang/hb-theme/main/images/screenshot.png)
