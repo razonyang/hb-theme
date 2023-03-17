@@ -15,7 +15,7 @@ pinned: true
 featured: true
 ---
 
-置顶示例文章。
+通过本文，你将了解到如何通过在页面 Front Matter 设置 `pinned` 参数为 `true` 以于主页置顶文章。
 
 <!--more-->
 

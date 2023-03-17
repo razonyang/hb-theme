@@ -15,7 +15,7 @@ pinned: true
 featured: true
 ---
 
-The pinned example post.
+Pinning a post on home page by setting the `pinned` parameter as `true` on page's front matter.
 
 <!--more-->
 
