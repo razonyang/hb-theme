@@ -13,6 +13,8 @@ images:
   - https://images.pexels.com/photos/15723656/pexels-photo-15723656.jpeg?auto=compress&cs=tinysrgb&w=1600
 pinned: true
 featured: true
+authors:
+  - razonyang
 ---
 
 通过本文，你将了解到如何通过在页面 Front Matter 设置 `pinned` 参数为 `true` 以于主页置顶文章。

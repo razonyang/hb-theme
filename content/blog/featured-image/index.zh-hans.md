@@ -9,6 +9,8 @@ categories:
   - 文章
 tags:
   - 特色图片
+authors:
+  - razonyang
 ---
 
 一篇带有特色图片的示例文章。
