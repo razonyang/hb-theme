@@ -3,7 +3,9 @@
   "extends": [
     "config:base"
   ],
-  "matchDepTypes": ["indirect"],
+  "packageRule" {
+    "matchDepTypes": ["indirect"],
+  },
   "postUpdateOptions": [
     "gomodTidy"
   ]
