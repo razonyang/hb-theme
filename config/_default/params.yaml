@@ -16,6 +16,7 @@ hb:
       twitter: razonyang
       mastodon: razonyang
   blog:
+    home:
     giscus:
       repo: razonyang/hb-theme
       repo_id: R_kgDOI8nunQ
