@@ -8,11 +8,11 @@ enableRobotsTXT: true
 module:
   # proxy: https://goproxy.cn # For some regions can not access the proxy.golang.org, i.e. China.
   imports:
+    # syntax highlighting, see https://hb.razonyang.com/en/docs/modules/syntax-highlighting/.
+    # - path: github.com/razonyang/hb/modules/syntax-highlighting/styles/github-dark
+
     # recommended modules
     - path: github.com/razonyang/hb/modules/meta/recommended
-
-    # syntax highlighting, see https://hb.razonyang.com/en/docs/modules/syntax-highlighting/.
-    # - path: github.com/razonyang/hb/modules/syntax-highlighting/styles/gruvbox
   
     # icons modules
     - path: github.com/razonyang/hugo-mod-icons/vendors/font-awesome

@@ -13,3 +13,7 @@ authors:
 ---
 
 A fast, responsive and feature-rich Hugo theme for blog and documentations site.
+
+```sh
+echo "hello world"
+```
