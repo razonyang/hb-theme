@@ -3,9 +3,13 @@
   "extends": [
     "config:base"
   ],
-  "packageRule": {
-    "matchDepTypes": ["indirect"]
-  },
+  "packageRules": [
+    {
+      "matchManagers": ["gomod"],
+      "matchDepTypes": ["indirect"],
+      "enabled": true
+    }
+  ],
   "postUpdateOptions": [
     "gomodTidy"
   ]
