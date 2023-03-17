@@ -11,6 +11,8 @@ tags:
 images:
   - https://storage.googleapis.com/webdesignledger.pub.network/WDL/6f050e39-windows_10_logoblue.svg-copy_windows.jpg
 featured: true
+authors:
+  - razonyang
 ---
 
 This guide show you how to install on Windows.

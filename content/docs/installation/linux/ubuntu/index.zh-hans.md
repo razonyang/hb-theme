@@ -12,6 +12,8 @@ tags:
 images:
   - https://assets.ubuntu.com/v1/ff6a9a38-ubuntu-logo-2022.svg
 featured: true
+authors:
+  - razonyang
 ---
 
 This guide show you how to install on Ubuntu.

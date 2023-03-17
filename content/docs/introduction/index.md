@@ -8,6 +8,8 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
+authors:
+  - razonyang
 ---
 
 A fast, responsive and feature-rich Hugo theme for blog and documentations site.
