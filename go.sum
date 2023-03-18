@@ -101,6 +101,7 @@ github.com/razonyang/hugo-mod-images v0.1.1 h1:c7AMnvAQ/jhvG9j0T6+j3Xg+T6PbyGXPJ
 github.com/razonyang/hugo-mod-images v0.1.1/go.mod h1:Qj7zhXYpVCIjk/ClRQ23vvo4daZnARyFMC24lm0q3eM=
 github.com/razonyang/hugo-mod-pwa v0.3.3 h1:eK1QTz4B/qjWoWgb1fE3gvBORMNU9E9PiBb6t7XRgow=
 github.com/razonyang/hugo-mod-pwa v0.3.3/go.mod h1:HJvn8dWazSjsk+5Zngq0v2+/Osf20tNmftwmw69rB3w=
+github.com/razonyang/hugo-mod-pwa v0.3.4/go.mod h1:zowdF1fNI8zlTuOJtarfX0n13dbqlbpeT3Q4P2uPfXk=
 github.com/razonyang/hugo-mod-search v0.15.2 h1:KFzBOimkjOreiu/qhtVtZJViLtkKTLN5F/+z5SmKeT8=
 github.com/razonyang/hugo-mod-search v0.15.2/go.mod h1:rlFETVHvlAXhq4Q/n+0CLttmhz72XdoY2IbOI5p8Bxg=
 github.com/razonyang/hugo-mod-seo/modules/alternatives v0.1.0 h1:nbAflzsav8HJAu9pntSJsf3/EUxSREDoEQFGlvZdxyI=
